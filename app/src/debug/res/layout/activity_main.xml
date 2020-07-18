@@ -21,7 +21,7 @@
     </LinearLayout>
 
     <textview>
-
+        android
     </textview>
     <TextView
         android:layout_width="wrap_content"
