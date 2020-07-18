@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DreamApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_in_name">Карта</string>
+    <string name="app_in_after">Же  аний</string>
+    <string name="bottom_1">Войти</string>
+    <string name="bottom_2">Зарегистрироваться</string>
+</resources>
