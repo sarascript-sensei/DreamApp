@@ -20,9 +20,6 @@
             android:orientation="vertical"></LinearLayout>
     </LinearLayout>
 
-    <textview>
-        android
-    </textview>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -33,6 +30,7 @@
         android:layout_marginEnd="146dp"
         android:layout_marginRight="146dp"
         android:layout_marginBottom="83dp"
+        android:fontFamily="@font/scope_one"
         android:text="@string/app_in_name"
         android:textAlignment="center"
         android:textColor="@color/ColorOrange"
@@ -43,6 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="100dp"
         android:layout_marginTop="200dp"
+        android:fontFamily="@font/scope_one"
         android:text="@string/app_in_after"
         android:textAlignment="center"
         android:textColor="@color/ColorOrange"
