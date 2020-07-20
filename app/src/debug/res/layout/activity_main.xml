@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:background="@drawable/picture_background_1"
     android:layout_height="match_parent"
+    android:id="@+id/root_element"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -32,7 +33,6 @@
         android:layout_marginBottom="83dp"
         android:fontFamily="@font/scope_one"
         android:text="@string/app_in_name"
-        android:textAlignment="center"
         android:textColor="@color/ColorOrange"
         android:textSize="35sp" />
 
@@ -43,7 +43,6 @@
         android:layout_marginTop="200dp"
         android:fontFamily="@font/scope_one"
         android:text="@string/app_in_after"
-        android:textAlignment="center"
         android:textColor="@color/ColorOrange"
         android:textSize="60sp" />
 

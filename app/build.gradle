@@ -43,5 +43,8 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:25.6.0')
     implementation 'com.google.firebase:firebase-crashlytics'
     implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.google.firebase:firebase-messaging:15.0.2'
+    implementation 'com.google.firebase:firebase-core:16.0.1'
+    implementation 'com.google.firebase:firebase-analytics:17.2.2'
+    implementation 'com.google.firebase:firebase-database:19.3.1'
 }
-
